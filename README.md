@@ -19,8 +19,6 @@ Roovモデリング効率化スクリプト。
 * Blender
 	* v3.6.1
 	
-## Directory
-	
 ## Author
 
 [STYLE-PORT](https://github.com/STYLE-PORT)
