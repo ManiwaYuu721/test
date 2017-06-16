@@ -10,5 +10,17 @@ Roovモデリング効率化スクリプト。
 
 ## Install
 * Maya : Windows 10
- * 環境変数にMAYA_PLUG_IN_PATHを登録しMayaプラグインが格納されているディレクトリを登録、<br>
-その後、Maya->ウィンドウ->設定/プリファレンス->プラグインマネージャ->作成したプラグイン選択->ロードで行えます。<br>
+	* 環境変数にMAYA_PLUG_IN_PATHを登録しMayaプラグインが格納されているディレクトリを登録、<br>Maya->ウィンドウ->設定/プリファレンス->プラグインマネージャ->作成したプラグイン選択->ロード<br>
+
+## Python
+* Maya
+	* v2.7.13
+
+* Blender
+	* v3.6.1
+	
+## Directory
+	
+## Author
+
+[STYLE-PORT](https://github.com/STYLE-PORT)
